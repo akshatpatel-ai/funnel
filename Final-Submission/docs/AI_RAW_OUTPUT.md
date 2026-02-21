@@ -1,8 +1,3 @@
-# Raw AI Output (Initial Draft Snapshot)
-
-The following reflects the style/content of the initial AI-generated draft before refactoring.
-
-```php
 <?php
 /*
 Plugin Name: Checkout Fee Test

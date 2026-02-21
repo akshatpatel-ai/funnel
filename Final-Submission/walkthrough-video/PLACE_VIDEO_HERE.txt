@@ -1,3 +1,0 @@
-Place the final recorded walkthrough video file in this folder.
-Suggested filename: FunnelKit_Assignment_Walkthrough.mp4
-

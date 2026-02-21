@@ -4,12 +4,6 @@
 
 - GPT-based coding assistant in terminal workflow.
 
-## What AI Generated Initially
-
-- Initial plugin folder/file skeleton.
-- Preliminary conditional fee logic draft.
-- Initial class decomposition ideas for pricing and analytics.
-
 ## What Was Manually Improved / Refactored
 
 1. Converted flat procedural drafts into modular OOP services.
